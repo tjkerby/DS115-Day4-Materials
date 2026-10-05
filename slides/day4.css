@@ -1,0 +1,28 @@
+/* Local additions only. Existing DS 115 theme remains unchanged. */
+.reveal .slide.title-slide h2 {
+  color: white;
+  border-left: none;
+  padding-left: 0;
+  font-size: 1.9em;
+}
+.reveal .slide.title-slide .big-idea { color: #F4EEDC; }
+.reveal .slide.title-slide strong { color: white; }
+.reveal .slide.title-slide a { color: #F4EEDC; }
+.reveal .comparison-table table { font-size: 0.69em; }
+.reveal .comparison-table table td { vertical-align: top; }
+.reveal .slides > section > h2 { margin-top: 0; }
+.reveal .notes { display: none; }
+
+/* Keep the adapted Venn diagram inside the widescreen slide. */
+.reveal img.major-overlap {
+  display: block;
+  width: auto !important;
+  height: 640px;
+  max-height: 640px;
+  max-width: 100%;
+  margin: 0 auto;
+  object-fit: contain;
+}
+.reveal .venn-note { font-size: 0.52em; margin-top: 0.1em; }
+
+.reveal .major-overlap-slide figcaption { display: none; }

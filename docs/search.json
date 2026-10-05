@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "slides/day4.html#day-4-academic-pathways",
+    "href": "slides/day4.html#day-4-academic-pathways",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Day 4: Academic Pathways",
+    "text": "Day 4: Academic Pathways\n\nHow can your BYU education prepare you for the work you want to do?\n\nDS 115: Exploring Data Science\n\nDesigned for a 50-minute class, including discussion and live demonstrations. The final three slides are reference material. Open the five program catalog pages, the DS MAP sheet, MyMAP, and the CMS Advisement Center page before class. The live catalog comparison is a central activity."
+  },
+  {
+    "objectID": "slides/day4.html#where-we-left-off",
+    "href": "slides/day4.html#where-we-left-off",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Where we left off",
+    "text": "Where we left off\n\nWhat did the job postings tell us about the skills people use?\n\n\nRecall one responsibility and one skill. Compare with a neighbor.\n\n\nDifferent jobs draw on different combinations of computing, statistics, mathematics, communication, and context.\n\n\nAllow 30 seconds of individual recall, then hear two or three examples. Connect Day 1’s breadth, Day 2’s student-success investigation, and Day 3’s actual responsibilities. If students missed Day 3, ask what expertise the GPA investigation required instead."
+  },
+  {
+    "objectID": "slides/day4.html#todays-question",
+    "href": "slides/day4.html#todays-question",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Today’s question",
+    "text": "Today’s question\n\nHow can these academic pathways help you grow into data science?\n\n\nYou can begin learning while you are still figuring out your direction.\n\n\nStudents do not need an established career goal or a final major choice. Today we explain the programs and show resources that can help them start."
+  },
+  {
+    "objectID": "slides/day4.html#what-you-should-leave-with",
+    "href": "slides/day4.html#what-you-should-leave-with",
+    "title": "DS 115: Exploring Data Science",
+    "section": "What you should leave with",
+    "text": "What you should leave with\n\nAn understanding of why the DS degree includes different disciplines.\nA way to compare majors using their actual requirements.\nResources to help you begin your graduation plan and get advice.\n\n\nThe course assignment asks for a graduation plan. Today introduces the resources, rather than requiring students to build a complete plan during class."
+  },
+  {
+    "objectID": "slides/day4.html#the-curriculum-helps-you-learn-the-work",
+    "href": "slides/day4.html#the-curriculum-helps-you-learn-the-work",
+    "title": "DS 115: Exploring Data Science",
+    "section": "The curriculum helps you learn the work",
+    "text": "The curriculum helps you learn the work\nYou are here to develop these abilities. You do not need to arrive with them.\n\n\n\n\n\n\n\nAs you move through the degree…\nYou learn how to…\n\n\n\n\nMathematics\nUnderstand the structure behind models\n\n\nStatistics\nEvaluate evidence and uncertainty\n\n\nComputing\nWork with data and build reliable programs\n\n\nCourses that bring them together\nUse these foundations in real investigations\n\n\n\n\nExplain this table yourself. Do not ask students to diagnose a process they have not yet learned. Briefly refer to the GPA investigation: we saw several kinds of work, and the curriculum gives students time and support to learn them. The disciplines overlap. This is a purpose statement, not a division of tasks into exclusive departments."
+  },
+  {
+    "objectID": "slides/day4.html#the-structure-of-the-data-science-bs",
+    "href": "slides/day4.html#the-structure-of-the-data-science-bs",
+    "title": "DS 115: Exploring Data Science",
+    "section": "The structure of the Data Science BS",
+    "text": "The structure of the Data Science BS\n\n\n\n\n\n\n\nPart of the degree\nWhat it develops\n\n\n\n\nIntroductory courses\nA starting vocabulary and basic tools\n\n\nMathematical foundations\nA language for models and computation\n\n\nStatistical foundations\nReasoning about evidence and uncertainty\n\n\nComputing foundations\nReliable programs and organized data\n\n\nData science core\nPractice combining the foundations\n\n\nElectives and specialization\nMore depth in areas you want to explore\n\n\nAdvanced theory and experience\nDeeper models, capstone work, or research\n\n\n\n\nView the actual Data Science BS requirements.\n\n\nSource: https://catalog25byu.catalog.prod.coursedog.com/programs/cCQhj7GN2hR4tO4DD4yL/program-information-aoYks, reviewed October 5, 2026 UTC. Open the actual DS program page and point out its seven requirement areas. Then use the next slides to discuss the purpose of each area. This table is a conceptual interpretation, not a prerequisite chart. Explain that students should use the catalog year attached to their own degree audit."
+  },
+  {
+    "objectID": "slides/day4.html#requirement-1-introductory-courses",
+    "href": "slides/day4.html#requirement-1-introductory-courses",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Requirement 1: Introductory courses",
+    "text": "Requirement 1: Introductory courses\n\n\n\nCourses listed in the introductory block\nStarting point\n\n\n\n\nDS 115\nExplore the field and possible pathways\n\n\nDS 180\nBegin working with data science ideas\n\n\nCS 111\nBuild a programming foundation\n\n\nMATH 112\nDevelop calculus tools\n\n\nSTAT 121\nBegin statistical reasoning\n\n\n\n\nUse your degree audit and advisor to confirm how prior credit and introductory requirements apply to you.\n\n\nThe linked 2025-2026 catalog lists four introductory courses plus one introductory data science course selected from its two cross-listed options. Use current DS prefixes in conversation. The MAP sheet uses the legacy labels STAT 115 and CS 180. Confirm how those labels and any prior credit apply through the student’s own audit and advisor."
+  },
+  {
+    "objectID": "slides/day4.html#requirement-2-mathematical-foundations",
+    "href": "slides/day4.html#requirement-2-mathematical-foundations",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Requirement 2: Mathematical foundations",
+    "text": "Requirement 2: Mathematical foundations\nMATH 113, MATH 213, MATH 215\n\nHow does a model combine information from many variables?\n\n\nCalculus helps us describe change. Linear algebra helps us represent and compute with many quantities at once.\n\n\nThink back to using several student characteristics to predict GPA.\n\n\nCourse membership source: Data Science BS catalog. The explanation is an instructional illustration of why mathematical foundations matter. Do not introduce equations or teach calculus here. Ask students where changing one input might matter in a prediction."
+  },
+  {
+    "objectID": "slides/day4.html#requirement-3-statistical-foundations",
+    "href": "slides/day4.html#requirement-3-statistical-foundations",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Requirement 3: Statistical foundations",
+    "text": "Requirement 3: Statistical foundations\nSTAT 230, STAT 240, STAT 251, STAT 330\n\nWhat does the evidence support, and how uncertain are we?\n\n\nStudy design and statistical modeling.\nProbability, inference, and Bayesian reasoning.\n\n\nA relationship in the GPA data did not automatically tell us what causes student success.\n\n\nSources: Data Science BS catalog, https://catalog25byu.catalog.prod.coursedog.com/programs/cCQhj7GN2hR4tO4DD4yL/program-information-aoYks. Course examples: STAT 230, https://catalog.byu.edu/courses/11839-001, and STAT 330, https://catalog.byu.edu/courses/11842-001. Ask students to recall one reason they were cautious about the Day 2 predictions. Keep the focus on reasoning rather than memorizing course numbers."
+  },
+  {
+    "objectID": "slides/day4.html#requirement-4-computing-foundations",
+    "href": "slides/day4.html#requirement-4-computing-foundations",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Requirement 4: Computing foundations",
+    "text": "Requirement 4: Computing foundations\nCS 235, CS 240, CS 452\n\nHow will you make the work reliable when the data and code get larger?\n\n\nData structures and algorithms.\nSoftware design and testing.\nDatabase organization and access.\n\n\nThink back to the pipelines and systems in the Day 3 postings.\n\n\nSources: Data Science BS catalog. CS 235, https://catalog.byu.edu/courses/10648-000. CS 240, https://catalog.byu.edu/courses/09200-000. Ask why a script that works once might still be inadequate for a company that must run it every day."
+  },
+  {
+    "objectID": "slides/day4.html#requirement-5-data-science-core",
+    "href": "slides/day4.html#requirement-5-data-science-core",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Requirement 5: Data science core",
+    "text": "Requirement 5: Data science core\n\n\n\nCourse\nA question it helps you approach\n\n\n\n\nCS 270\nHow can a model learn from examples?\n\n\nCS 404\nHow should technology affect people?\n\n\nMATH 380\nWhat mathematics supports data science?\n\n\nPHSCS 383\nHow does knowledge of a system guide reasoning?\n\n\nSTAT 281\nHow can a visual communicate evidence?\n\n\nSTAT 386\nHow do we carry out an analysis with data?\n\n\n\n\nCourse membership source: Data Science BS catalog. The questions are teaching summaries, not quoted official learning outcomes. Invite students to connect one course to an actual responsibility from Day 3. The courses combine perspectives rather than belonging to isolated categories."
+  },
+  {
+    "objectID": "slides/day4.html#requirement-6-electives-and-specialization",
+    "href": "slides/day4.html#requirement-6-electives-and-specialization",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Requirement 6: Electives and specialization",
+    "text": "Requirement 6: Electives and specialization\nThe degree includes 12 hours of approved electives.\n\n\n\n\n\n\n\nA direction you could explore\nExamples from the approved list\n\n\n\n\nDeeper modeling and theory\nAdvanced ML, deep learning, probability and inference\n\n\nMathematical methods\nNumerical linear algebra and model uncertainty\n\n\nData science in other fields\nBioinformatics, economics, and geoscience\n\n\nWork on larger projects\nCapstone coursework and approved internship credit\n\n\n\n\nYou can use these choices to develop interests you discover along the way.\n\n\nRequirement 6 is a broad elective block. Applied context describes some options, but it does not describe the whole list. Some choices deepen methods and theory. These rows are examples, not prescribed tracks or approved bundles. Check the approved list, prerequisites, and offerings. Some options require prerequisites beyond the major. BIO 462 is marked as no longer offered."
+  },
+  {
+    "objectID": "slides/day4.html#requirement-7-advanced-theory-and-experience",
+    "href": "slides/day4.html#requirement-7-advanced-theory-and-experience",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Requirement 7: Advanced theory and experience",
+    "text": "Requirement 7: Advanced theory and experience\nChoose 3 hours from the approved list.\n\n\n\nSome options deepen theory and methods\nOthers emphasize experience\n\n\n\n\nCS 473: Advanced Machine Learning\nCS 483: Data Science Capstone 2\n\n\nCS 474: Deep Learning\nApproved undergraduate research\n\n\nMATH 522: Mathematics of Deep Learning\nApproved internship credit\n\n\nSTAT 486: Machine Learning\nApproved physics capstone or research\n\n\n\n\nA course used here cannot also count toward Requirement 6.\n\n\nThis requirement includes advanced ML/DL and mathematical theory as well as culminating experiences. Do not frame all options as a capstone or internship. The table gives examples, not the entire approved list. Confirm the required three hours, variable-credit rules, and any permissions or preceding courses. Source: the DS catalog linked in this deck."
+  },
+  {
+    "objectID": "slides/day4.html#different-majors-different-priorities",
+    "href": "slides/day4.html#different-majors-different-priorities",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Different majors, different priorities",
+    "text": "Different majors, different priorities\n\nWe have seen how the Data Science BS combines these foundations. How do other programs arrange them?\n\n\nThe requirements show what each pathway asks you to practice in greater depth.\n\n\nMove from understanding the DS curriculum to examining the actual requirements of related programs. Students can now recognize the role of introductory courses, foundations, electives, and advanced work. Introduce the comparison questions, then use the five-link slide for the live catalog tour."
+  },
+  {
+    "objectID": "slides/day4.html#questions-for-reading-a-degrees-requirements",
+    "href": "slides/day4.html#questions-for-reading-a-degrees-requirements",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Questions for reading a degree’s requirements",
+    "text": "Questions for reading a degree’s requirements\n\nWhich foundations does it share with Data Science?\nWhere does it build more depth?\nWhere do students have a choice?\n\n\nWe will look at the requirements together. You can notice differences without deciding on a major today.\n\n\nKeep the comparison descriptive and instructor-led. Point out concrete courses and explain their role. Invite observations about material just shown. Avoid asking students to infer a career fit or rank programs."
+  },
+  {
+    "objectID": "slides/day4.html#five-data-science-pathways-at-byu",
+    "href": "slides/day4.html#five-data-science-pathways-at-byu",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Five data science pathways at BYU",
+    "text": "Five data science pathways at BYU\n\nData Science BS\nStatistics BS, Data Science emphasis\nMachine Learning BS\nMathematics BS, Applied and Computational Mathematics emphasis (ACME)\nApplied Physics BS, Data Science emphasis\n\n\nWe will look through the actual program requirements together.\n\n\nUse this slide as the starting point for a live catalog comparison. Open the links in separate tabs and scroll to Program Requirements. We have just discussed the DS requirement areas, so revisit its structure briefly, then compare Statistics, Machine Learning, ACME, and Applied Physics. Allow about 8 minutes for the tour, with short student observations along the way. Look for fixed courses, choices, and prerequisite sequences. Ask what each program adds in depth and what room it leaves for exploration. ACME has a structured junior/senior core and a concentration. Applied Physics connects data methods to physics and research. Invite students to point to specific requirements that support those interpretations. The shared-foundation slide and updated Venn diagram provide the debrief. The DS link is the instructor-supplied 2025-2026 edition. The other links open the current catalog. Sources reviewed October 5, 2026. Each student should use the catalog year attached to their own degree audit."
+  },
+  {
+    "objectID": "slides/day4.html#a-shared-foundation",
+    "href": "slides/day4.html#a-shared-foundation",
+    "title": "DS 115: Exploring Data Science",
+    "section": "A shared foundation",
+    "text": "A shared foundation\nData Science BS, Statistics BS, Data Science emphasis, and Machine Learning BS share substantial early coursework.\n\nCS 111, CS 235, MATH 112, MATH 213, MATH 215, STAT 121*\n\n\n*Machine Learning allows STAT 201 as an alternative to STAT 121.\n\n\nLearning these foundations gives you time to discover which parts of the field you enjoy.\n\n\nThis is a selected list, not a full list of overlap. Include STAT 121 explicitly. It is required in DS and Statistics, and is one of two introductory statistics options in ML. Approved prior credit and substitutions can affect an individual plan. Sources: the three program catalogs linked in the lecture."
+  },
+  {
+    "objectID": "slides/day4.html#overlapping-foundations-different-depth",
+    "href": "slides/day4.html#overlapping-foundations-different-depth",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Overlapping foundations, different depth",
+    "text": "Overlapping foundations, different depth\n\n\n\nSelected course overlap among Data Science, Statistics with the Data Science emphasis, and Machine Learning. Shared foundations include CS 111, CS 235, MATH 112, MATH 213, MATH 215, and STAT 121, with STAT 201 as an ML alternative.\n\n\n\nSelected core requirements. *ML allows STAT 201 instead. A course outside a program’s core may still be an elective.\n\n\nAdapted from the Venn diagram in last year’s supplied deck. The center highlights early overlap, including STAT 121 with the ML alternative marked. DS and Statistics share MATH 113 and STAT 230, 240, 251, and 330. DS and ML share CS 240, 270, 404, and MATH 380. Outer regions give selected core examples, not exclusive access to those courses. For example CS 452 and STAT 240 are ML elective options. STAT 386 is not placed among fixed shared requirements because Statistics offers a capstone alternative to the STAT 386/486 path. Update from last year: current Statistics requirements list STAT 430 rather than STAT 250. Intro to data science uses different cross-listed prefixes, so it is omitted from this selected diagram. Use the actual program pages for every requirement. Invite a simple observation about the overlap or a difference students just saw."
+  },
+  {
+    "objectID": "slides/day4.html#a-starting-point-when-you-are-unsure",
+    "href": "slides/day4.html#a-starting-point-when-you-are-unsure",
+    "title": "DS 115: Exploring Data Science",
+    "section": "A starting point when you are unsure",
+    "text": "A starting point when you are unsure\n\nIf you are unsure which pathway to pursue, start with the Data Science BS.\n\nIts broad foundation lets you experience mathematics, statistics, and computing as you learn about the field.\n\nAs your interests become clearer, you can stay in DS or explore a related major with an advisor.\n\n\nPresent this as the instructor’s recommendation for an undecided student, not a placement rule or a claim that DS is best for everyone. Students who already have another intended major should use it. The shared foundations make many early pivots feasible. An advisor can explain which completed courses carry over and how a particular switch would affect the sequence."
+  },
+  {
+    "objectID": "slides/day4.html#your-major-matters-and-so-does-how-you-use-it",
+    "href": "slides/day4.html#your-major-matters-and-so-does-how-you-use-it",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Your major matters, and so does how you use it",
+    "text": "Your major matters, and so does how you use it\n\nYour success in data science is unlikely to hinge on which of these related majors you choose.\n\nYour major shapes the foundation you build. How you learn and what you do with that foundation matter too.\n\nCourses, projects, research, and work experience can help you grow in directions beyond your required curriculum.\n\n\nState the main point directly: majors are important, but students should not treat this choice as the deciding factor in their future success or failure in data science. This is the instructor’s guidance, not a claim of identical outcomes across programs. Connect to Day 3: students can develop and demonstrate skills in several ways."
+  },
+  {
+    "objectID": "slides/day4.html#a-map-sheet-gives-you-a-starting-sequence",
+    "href": "slides/day4.html#a-map-sheet-gives-you-a-starting-sequence",
+    "title": "DS 115: Exploring Data Science",
+    "section": "A MAP sheet gives you a starting sequence",
+    "text": "A MAP sheet gives you a starting sequence\nData Science BS: Major Academic Plan (MAP) sheet\n\nLists the degree requirements.\nSuggests which courses to take and when.\nPlaces major courses alongside GE and religion requirements.\n\n\nUse this as a starting point for your graduation-plan assignment.\n\n\nAdapt it to your prior credit, responsibilities, and applicable catalog year.\n\n\nOpen the supplied MAP sheet and show both the requirement list and the suggested semester sequence. Point out that it does some of the initial organizing for the homework. The retrieved sheet uses legacy STAT 115 and CS 180 labels. Explain that students should match those to their applicable audit rather than treating a sample sequence as individualized approval. The linked DS catalog is the 2025-2026 edition supplied by the instructor."
+  },
+  {
+    "objectID": "slides/day4.html#prerequisites-affect-the-order",
+    "href": "slides/day4.html#prerequisites-affect-the-order",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Prerequisites affect the order",
+    "text": "Prerequisites affect the order\n\n\n\nA standard computing route\nWhat needs to come first\n\n\n\n\nCS 111\nCheck placement and preparation\n\n\nCS 235\nCS 111 is one accepted prerequisite option\n\n\nCS 240\nCS 235, or instructor consent\n\n\n\n\nA course can be required and still be too early to take next semester.\n\n\nSources: CS 235, https://catalog.byu.edu/courses/10648-000, lists prerequisite course IDs 01489-002 (CS 142) or 14243-000 (CS 111). The CS 111 identity is confirmed at https://catalog.byu.edu/courses/14243-000. CS 240, https://catalog.byu.edu/courses/09200-000, lists CS 235 or instructor consent. This table illustrates one route and is not a complete prerequisite map. Students must confirm current prerequisites, grade rules, and exceptions for their own plan."
+  },
+  {
+    "objectID": "slides/day4.html#prerequisites-and-offerings-affect-the-sequence",
+    "href": "slides/day4.html#prerequisites-and-offerings-affect-the-sequence",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Prerequisites and offerings affect the sequence",
+    "text": "Prerequisites and offerings affect the sequence\nHypothetical example: no prior credit or summer courses. Each prerequisite must finish before the next course begins.\n\n\n\nCourse\nPrerequisite\nOffered\n\n\n\n\nA: Foundations\nNone\nFall and Winter\n\n\nB: Intermediate methods\nA\nFall and Winter\n\n\nC: Advanced project\nB\nWinter only\n\n\n\n\nIf you start A in Fall of Year 1, when can you first finish C?\n\n\nA in Fall 1, B in Winter 1, C in Winter 2. Starting A in Winter 1 still reaches C in Winter 2.\n\n\nAllow 30-45 seconds to think, then reveal the answer on the same slide. C cannot run concurrently with B. The availability of C creates a wait after B if the student starts A in Fall. Starting A in Winter leads to B in Fall of Year 2 and C in Winter of Year 2. A full-year delay in starting A leads to C in Winter of Year 3. These are invented courses and offerings. The point is to check both prerequisites and the schedule, not to turn planning into an elaborate classroom exercise."
+  },
+  {
+    "objectID": "slides/day4.html#mymap-helps-you-see-your-own-progress",
+    "href": "slides/day4.html#mymap-helps-you-see-your-own-progress",
+    "title": "DS 115: Exploring Data Science",
+    "section": "MyMAP helps you see your own progress",
+    "text": "MyMAP helps you see your own progress\nOpen MyMAP\n\nSee how your completed courses apply to requirements.\nIdentify requirements you still need.\nOrganize a tentative course plan.\n\n\nThe MAP sheet gives a suggested sequence. MyMAP helps you connect it to your own record.\n\n\nDemonstrate the tool for about three minutes using a view suitable for classroom sharing. Show the requirement view, completed credit, and where students can work on future courses. Use the system’s current labels rather than promising unverified buttons or automatic prerequisite checks. Explain what it helps students do. Do not run a separate in-class planning or partner-review activity. Course pages and the schedule still help confirm prerequisites and offerings."
+  },
+  {
+    "objectID": "slides/day4.html#an-advisor-can-help-you-move-forward",
+    "href": "slides/day4.html#an-advisor-can-help-you-move-forward",
+    "title": "DS 115: Exploring Data Science",
+    "section": "An advisor can help you move forward",
+    "text": "An advisor can help you move forward\nCMS Advisement Center\nAn advisor can help you understand prior credit, plan a course sequence, and explore a possible change of major.\n\nYou can ask for help before you have everything figured out.\n\n\nVisit the advisement page for appointment options. You can also contact the center at 801-422-2674 or cmsadvising@byu.edu.\n\n\nOpen the CMS Advisement Center page and show students where appointment options are available. Do not submit a booking. The official BYU Data Science site links to this center for exploring majors, planning classes, and graduation help. If the public page is unavailable, point to the displayed phone/email to ask for an appointment. Bring a tentative plan or simply the questions you have. Connect to the advisor/TA assignment without changing its requirements. A TA can share course experiences, while the academic advisor can confirm degree rules and substitutions."
+  },
+  {
+    "objectID": "slides/day4.html#resources-for-the-graduation-plan-assignment",
+    "href": "slides/day4.html#resources-for-the-graduation-plan-assignment",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Resources for the graduation-plan assignment",
+    "text": "Resources for the graduation-plan assignment\n\nUse the catalog to identify your requirements.\nUse the MAP sheet to help arrange the course sequence.\nUse MyMAP to account for your own credit and remaining work.\nAsk an advisor about questions or changes you want to explore.\n\n\nYour assignment is a plan from now through graduation. Use Canvas for the format, deadline, and submission instructions.\n\n\nThis is a short homework bridge, not another planning workshop. Include major and university requirements. If a student has another intended major, use that major and identify it clearly. If undecided, begin with DS. Explain that a useful plan can be revised as interests and circumstances develop. Follow the current Canvas assignment and rubric."
+  },
+  {
+    "objectID": "slides/day4.html#exit-ticket",
+    "href": "slides/day4.html#exit-ticket",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Exit ticket",
+    "text": "Exit ticket\n\nWhat did you notice about the overlap among the majors?\nName one course and something it will help you learn.\nWhich resource will help you take your next step?\n\n\nYou can still be undecided about your eventual major.\n\n\nUse the attendance quiz or a short reflection, as directed in class. The questions refer to material students have just seen and do not ask them to predict the best major for an unfamiliar career."
+  },
+  {
+    "objectID": "slides/day4.html#you-can-start-before-you-decide",
+    "href": "slides/day4.html#you-can-start-before-you-decide",
+    "title": "DS 115: Exploring Data Science",
+    "section": "You can start before you decide",
+    "text": "You can start before you decide\n\nYou do not need to find the perfect major before you begin.\n\n\nIf you are unsure, begin in Data Science with basic mathematics, programming, and statistics. Notice which kinds of work resonate with you.\n\n\nLet what you learn help you refine your choice.\n\n\nThese pathways share many early foundations, so there is often room to pivot as your interests become clearer.\n\n\nEnd the main lecture with encouragement. Students can start building useful foundations while they learn more about themselves and the field. An initial major choice is a working plan they can refine through experience. Many early courses overlap, especially mathematics and programming, but the exact overlap depends on the programs and prior credit. Encourage an advisor conversation about initial courses that keep the student’s preferred options open. Avoid promising that every switch is free of added coursework or delay, particularly for sequenced programs. Keep the spoken emphasis on starting, noticing what resonates, and adjusting as they learn. Reference slides follow for later use."
+  },
+  {
+    "objectID": "slides/day4.html#reference-planning-resources",
+    "href": "slides/day4.html#reference-planning-resources",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Reference: planning resources",
+    "text": "Reference: planning resources\n\nData Science BS catalog\nData Science MAP sheet\nMyMAP\nCMS Advisement Center\nClass schedule\n\n\nReference slide. The DS catalog link is the 2025-2026 edition requested by the instructor. Students should use the catalog year attached to their own degree audit. The MAP sheet is a sample sequence, not a substitute for individualized advice."
+  },
+  {
+    "objectID": "slides/day4.html#reference-credit-totals",
+    "href": "slides/day4.html#reference-credit-totals",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Reference: credit totals",
+    "text": "Reference: credit totals\n\n\n\nProgram\nPublished major credit hours\n\n\n\n\nData Science BS\n74.5\n\n\nStatistics BS, Data Science emphasis\n58\n\n\nMachine Learning BS\n74\n\n\nMathematics BS, ACME emphasis\n70-76\n\n\nApplied Physics BS, Data Science emphasis\n66-68\n\n\n\n\nMajor credits alone do not determine time to graduation. Account for prior credit, university requirements, prerequisites, and offerings.\n\n\nSources: the five program pages on the five-pathway slide. These are published minimum and maximum major totals as retrieved October 5, 2026 UTC, not total credits needed for graduation. The current ACME page differs from last year’s slide. Never use this table as a ranking of rigor or career value."
+  },
+  {
+    "objectID": "slides/day4.html#reference-questions-for-an-advisor",
+    "href": "slides/day4.html#reference-questions-for-an-advisor",
+    "title": "DS 115: Exploring Data Science",
+    "section": "Reference: questions for an advisor",
+    "text": "Reference: questions for an advisor\n\nHow does my prior credit apply to this major?\nWhich course sequence should I begin with?\nWhat would change if I switched to a related major?\nWhat could I add through electives or experience?\n\n\nBring your questions, even if your plan is still a rough draft.\n\n\nReference slide. Students do not need to finish a plan before speaking with an advisor."
+  }
+]

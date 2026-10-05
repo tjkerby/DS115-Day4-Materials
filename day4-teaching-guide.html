@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>DS 115 Day 4: Teaching guide</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+<style>body{max-width:980px;margin:3rem auto;padding:0 2rem;background:#fbfaf7;color:#1a1a1a;font:18px/1.55 system-ui,sans-serif;}h1,h2{color:#002e5d;}h1{font-size:2.2rem;line-height:1.15;}h2{font-size:1.4rem;margin-top:2rem;}a{color:#0057a7;}table{border-collapse:collapse;width:100%;font-size:0.92rem;}th{background:#002e5d;color:white;}th,td{border:1px solid #d8dee8;padding:0.5rem;text-align:left;vertical-align:top;}@media print{body{background:white;font:11pt/1.4 sans-serif;margin:0;padding:0;}h2{break-after:avoid;}table{font-size:10pt;}tr{break-inside:avoid;}@page{size:letter;margin:0.75in;}}</style></head>
+<body>
+<header id="title-block-header">
+<h1 class="title">DS 115 Day 4: Teaching guide</h1>
+<p class="subtitle">Academic pathways and resources for getting
+started</p>
+</header>
+<h2 id="purpose">Purpose</h2>
+<p>Day 4 explains how BYU’s data science pathways help students learn
+the field. Students do not need to know the professional process, have a
+settled career goal, or find the perfect major before they begin.</p>
+<p>The lecture first explains the seven DS requirement areas. It then
+visits the five programs’ actual requirements and uses a Venn diagram to
+show shared foundations and different curricular depth. For students who
+are unsure, the instructor recommends beginning with the Data Science BS
+and considering a pivot as their interests develop. Their success in the
+field is unlikely to hinge on which affiliated major they ultimately
+choose.</p>
+<p>The final section introduces resources for the graduation-plan
+assignment: the catalog, a sample MAP sheet, MyMAP, and academic
+advising. It includes brief demonstrations, rather than an in-class
+planning workshop.</p>
+<h2 id="before-class">Before class</h2>
+<ul>
+<li>Open the slides and the five linked program pages in separate
+tabs.</li>
+<li>Open the supplied Data Science MAP sheet, MyMAP, and the CMS
+Advisement Center page.</li>
+<li>Choose an appropriate view for classroom sharing during the MyMAP
+demonstration.</li>
+<li>Review Canvas instructions for the graduation-plan and advisor/TA
+assignments so you can state the actual deadlines and submission
+requirements.</li>
+<li>Check the current appointment options on the advisement page. If it
+is unavailable, the displayed phone and email provide a way to request
+an appointment.</li>
+</ul>
+<h2 id="a-50-minute-sequence">A 50-minute sequence</h2>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Minutes</th>
+<th>Slides</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0-5</td>
+<td>1-5</td>
+<td>Recall Day 3 and explain that the curriculum helps students develop
+the work’s foundations</td>
+</tr>
+<tr class="even">
+<td>5-20</td>
+<td>6-13</td>
+<td>Open the DS catalog and discuss the purpose of each requirement
+area</td>
+</tr>
+<tr class="odd">
+<td>20-32</td>
+<td>14-18</td>
+<td>Tour the five degree pages, then discuss the shared foundations and
+Venn diagram</td>
+</tr>
+<tr class="even">
+<td>32-36</td>
+<td>19-20</td>
+<td>Recommend DS as an undecided student’s starting point and put the
+major choice in perspective</td>
+</tr>
+<tr class="odd">
+<td>36-40</td>
+<td>21-23</td>
+<td>Show the MAP sheet and briefly discuss course sequencing</td>
+</tr>
+<tr class="even">
+<td>40-45</td>
+<td>24-25</td>
+<td>Demonstrate MyMAP and show where to request an academic advising
+appointment</td>
+</tr>
+<tr class="odd">
+<td>45-48</td>
+<td>26</td>
+<td>Connect the resources to the existing graduation-plan assignment and
+take questions</td>
+</tr>
+<tr class="even">
+<td>48-50</td>
+<td>27-28</td>
+<td>Exit ticket and an encouraging conclusion</td>
+</tr>
+</tbody>
+</table>
+<p>Slides 29-31 are references. The live catalog tour is the main
+comparison activity. Keep the sequencing example short. If discussion
+runs long, use the available resources slide to transition directly from
+the MAP sheet to MyMAP and advising.</p>
+<h2 id="a-supportive-opening">A supportive opening</h2>
+<p>Slide 2 asks students to recall work they already saw in Day 3. Slide
+5 explains how mathematics, statistics, and computing help them grow
+into that work. Explain the table yourself. Students should hear that
+the curriculum gives them time to develop these skills.</p>
+<p>Avoid asking students to diagnose a process they have not learned or
+map an unfamiliar career to a major. Questions later in the lecture ask
+them to notice something in a catalog or diagram they have just
+seen.</p>
+<h2 id="the-ds-requirements">The DS requirements</h2>
+<p>Slide 6 opens the actual DS catalog. Walk through the next seven
+slides in order.</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Requirement</th>
+<th>Teaching emphasis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1: Introductory courses</td>
+<td>A starting vocabulary and basic tools</td>
+</tr>
+<tr class="even">
+<td>2: Mathematical foundations</td>
+<td>The structure behind models and computation</td>
+</tr>
+<tr class="odd">
+<td>3: Statistical foundations</td>
+<td>Evidence, uncertainty, and modeling</td>
+</tr>
+<tr class="even">
+<td>4: Computing foundations</td>
+<td>Reliable programs and organized data</td>
+</tr>
+<tr class="odd">
+<td>5: Data science core</td>
+<td>Courses that combine disciplinary perspectives</td>
+</tr>
+<tr class="even">
+<td>6: Electives and specialization</td>
+<td>Choices that can deepen theory, methods, or applications</td>
+</tr>
+<tr class="odd">
+<td>7: Advanced theory and experience</td>
+<td>ML/DL theory as well as capstone, research, and internship
+options</td>
+</tr>
+</tbody>
+</table>
+<p>Requirement 6 is broader than an applied-context label suggests.
+Requirement 7 includes advanced theory courses, so it should not sound
+as though every student must choose an experiential capstone. In both
+cases, the examples on the slides are a selection from the approved
+list, not complete degree rules.</p>
+<p>Courses used in Requirement 7 cannot also count toward Requirement 6.
+Variable-credit research or internship choices still need the required
+credit amount and approvals. Some choices require prerequisites outside
+the major.</p>
+<h2 id="the-catalog-comparison-and-venn-diagram">The catalog comparison
+and Venn diagram</h2>
+<p>Slide 15 previews three descriptive questions: what foundations
+overlap, where a major builds more depth, and where students have a
+choice. Slide 16 links the five programs.</p>
+<p>Allow about eight minutes for the live tour. Scroll to
+<strong>Program Requirements</strong> and explain a few concrete
+observations on each page:</p>
+<ol type="1">
+<li><strong>Data Science:</strong> Recall the broad foundation and
+flexible elective block.</li>
+<li><strong>Statistics, Data Science emphasis:</strong> Notice
+additional required statistical modeling and inference, plus its
+alternative culminating paths.</li>
+<li><strong>Machine Learning:</strong> Notice software and algorithm
+courses and required advanced ML/DL.</li>
+<li><strong>ACME:</strong> Look at the mathematical preparation,
+structured junior/senior core, and concentration.</li>
+<li><strong>Applied Physics, Data Science emphasis:</strong> Look at the
+physics foundation, labs, and scientific research or culminating
+work.</li>
+</ol>
+<p>Slide 17 includes STAT 121 in the shared foundation. Machine Learning
+allows STAT 201 instead, so the slide and diagram mark that alternative
+explicitly.</p>
+<p>Slide 18 adapts the Venn diagram from the supplied older lecture. It
+preserves the original circles and updates their text. It shows
+<strong>selected core requirements</strong>, rather than every required
+course or all elective overlap:</p>
+<ul>
+<li>Center: CS 111, CS 235, MATH 112, MATH 213, MATH 215, and STAT 121
+with the ML alternative marked.</li>
+<li>DS and Statistics: MATH 113 and STAT 230, 240, 251, and 330.</li>
+<li>DS and ML: CS 240, 270, 404, and MATH 380.</li>
+<li>Outer regions: selected examples of each program’s further core
+requirements.</li>
+</ul>
+<p>An outer-region course can still be available as an elective in
+another major. For example, ML lists CS 452 and STAT 240 among elective
+choices. The Statistics program offers either the CS 482/483 capstone
+sequence or the STAT 386/486 sequence. For that reason, STAT 386 does
+not appear as an unconditional shared requirement in this diagram.</p>
+<p>The current Statistics catalog lists STAT 430 rather than the older
+deck’s STAT 250. Introductory data science courses use different
+cross-listed prefixes across sources, so the selected diagram omits that
+course rather than suggesting separate content.</p>
+<p>A low-pressure discussion prompt is: <strong>What did you notice
+about the overlap or a difference in the diagram?</strong> Students can
+simply refer to what is on the screen.</p>
+<h2 id="major-choice-in-perspective">Major choice in perspective</h2>
+<p>Slide 19 gives undecided students a useful starting point: begin in
+DS, experience its broad foundations, and explore a related major later
+if their interests point that way. Students who already intend another
+major should use that major.</p>
+<p>Slide 20 makes the instructor’s main point directly: majors matter,
+but students’ success or failure in data science is unlikely to be
+determined by which affiliated major they end up choosing. Their
+learning, projects, research, and work experience can shape their
+development beyond the required curriculum. This is teaching guidance,
+not a claim that all programs produce identical outcomes.</p>
+<p>Early overlap often leaves room to pivot. An advisor can explain how
+a specific switch affects completed credit and future course sequencing.
+Avoid promising that every switch adds no coursework or delay.</p>
+<h2 id="a-short-introduction-to-planning-resources">A short introduction
+to planning resources</h2>
+<p>On slide 21, open the supplied <strong>Data Science MAP
+sheet</strong>. Show that it lists requirements and suggests which
+courses to take in each semester, including GE and religion courses. It
+provides substantial help getting started on the homework. Students
+should adapt the sample sequence to their prior credit,
+responsibilities, and own catalog year.</p>
+<p>Slide 22 gives a real example of prerequisites through CS 111, CS
+235, and CS 240. It is one accepted route, not a complete prerequisite
+map. CS 235 also lists CS 142 as an alternative, and CS 240 permits
+instructor consent.</p>
+<p>Slide 23 condenses the scheduling exercise and answer into one slide.
+The courses are hypothetical. Assume no prior credit or summer courses
+and require each prerequisite to finish before the next course
+begins.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Start A</th>
+<th>First B</th>
+<th>First C</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fall, Year 1</td>
+<td>Winter, Year 1</td>
+<td>Winter, Year 2</td>
+</tr>
+<tr class="even">
+<td>Winter, Year 1</td>
+<td>Fall, Year 2</td>
+<td>Winter, Year 2</td>
+</tr>
+<tr class="odd">
+<td>Fall, Year 2</td>
+<td>Winter, Year 2</td>
+<td>Winter, Year 3</td>
+</tr>
+</tbody>
+</table>
+<p>Give students 30-45 seconds, then reveal the answer. The lesson is
+simply to check both prerequisites and offerings. There is no separate
+follow-up exercise.</p>
+<p>On slide 24, demonstrate <strong>MyMAP</strong> for about three
+minutes. Show what it can help students do: see how credit applies,
+identify remaining requirements, and organize a tentative plan. Use
+current labels. Do not promise automatic checks or buttons that have not
+been verified.</p>
+<p>On slide 25, open the <strong>CMS Advisement Center</strong> page and
+show the appointment options available there. Do not book an appointment
+during the demonstration. The slide also gives 801-422-2674 and
+cmsadvising@byu.edu as contact options. Students can seek help while
+their plans are still rough. An advisor can confirm degree rules and
+substitutions, while a TA can share course experiences and help students
+prepare questions.</p>
+<p>Slide 26 connects these resources to the existing graduation-plan
+assignment. Keep its Canvas rubric, format, and due date. There is no
+separate worksheet, in-class planning period, or partner-review
+requirement in this lecture.</p>
+<h2 id="exit-ticket-and-conclusion">Exit ticket and conclusion</h2>
+<p>Slide 27 asks:</p>
+<ol type="1">
+<li>What did you notice about the overlap among the majors?</li>
+<li>Name one course and something it will help you learn.</li>
+<li>Which resource will help you take your next step?</li>
+</ol>
+<p>Students may remain undecided. Use the attendance quiz or a short
+reflection according to the course’s existing routine.</p>
+<p>Slide 28 closes with encouragement to begin. An undecided student can
+start in DS with mathematics, programming, and statistics, notice what
+resonates, and refine the major choice through experience.</p>
+<h2 id="source-and-catalog-year-notes">Source and catalog-year
+notes</h2>
+<p>The DS catalog URL supplied by the instructor points to the
+<strong>2025-2026</strong> edition. The lecture’s other four program
+links open the current catalog. The comparison is an instructional view
+of their overlapping foundations, not a matched-year degree audit.
+Students should use the catalog year attached to their own record for
+graduation decisions.</p>
+<p>The archived DS catalog’s introductory block lists four courses plus
+one introductory data science course selected from two options. It
+avoids the incomplete introductory-block display encountered on the
+current public catalog. The slide uses DS 115 and DS 180 as current
+course labels. The supplied MAP sheet uses the older STAT 115 and CS 180
+labels, which should be matched to the student’s applicable
+requirements.</p>
+<p>Public web retrieval of the supplied DS URL and MAP link was
+intermittent. Indexed official BYU content supplied the archived
+requirements and the MAP sheet’s semester sequence. Open the pages
+before class to verify the live demonstration. The CMS Advisement Center
+destination is linked by BYU’s official Data Science site. Its phone and
+email are corroborated by the official CS advisement page.</p>
+<p>The reference credit totals describe published major credits, not
+total university graduation credits or time to graduation. They should
+not serve as a ranking of rigor or career value.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a
+href="https://catalog25byu.catalog.prod.coursedog.com/programs/cCQhj7GN2hR4tO4DD4yL/program-information-aoYks">Data
+Science BS, instructor-supplied 2025-2026 catalog</a></li>
+<li><a href="https://catalog.byu.edu/programs/34708">Statistics BS, Data
+Science emphasis</a></li>
+<li><a href="https://catalog.byu.edu/programs/34716">Machine Learning
+BS</a></li>
+<li><a
+href="https://catalog.byu.edu/programs/34703/program-information-aoYks">Mathematics
+BS, ACME emphasis</a></li>
+<li><a
+href="https://catalog.byu.edu/programs/ycqlYlXfYC0FzhUQ6ojv">Applied
+Physics BS, Data Science emphasis</a></li>
+<li><a
+href="https://statistics.byu.edu/00000197-1d4a-d5a8-adbf-bfef05430001/bs-in-data-science-map-sheet">Data
+Science MAP sheet</a></li>
+<li><a href="https://commtech.byu.edu/auth/mymap/">MyMAP</a></li>
+<li><a href="https://science.byu.edu/advisement">CMS Advisement
+Center</a></li>
+<li><a href="https://datascience.byu.edu/which-major-should-i-pick">BYU
+Data Science: Picking a major</a></li>
+<li><a href="https://cs.byu.edu/advisement">CS Advisement: College
+Advisement Center contact</a></li>
+<li><a
+href="https://commtech.byu.edu/noauth/classSchedule/index.php">Class
+schedule</a></li>
+<li><a href="https://catalog.byu.edu/courses/14243-000">CS 111</a>, <a
+href="https://catalog.byu.edu/courses/10648-000">CS 235</a>, and <a
+href="https://catalog.byu.edu/courses/09200-000">CS 240</a></li>
+</ul>
+<p>The supplied older deck provided the original Venn diagram. The
+existing course sources supply the theme. Capability summaries, timing,
+and recommendations are instructional interpretations.</p>
+</body>
+</html>

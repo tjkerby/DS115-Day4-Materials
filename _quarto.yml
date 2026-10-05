@@ -1,0 +1,8 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - slides/day4.qmd
+
+website:
+  title: "DS 115: Exploring Data Science"
