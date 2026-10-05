@@ -1,4 +1,4 @@
-DS 115 Day 4: Academic Pathways
+DS 115 Day-4: Academic Pathways
 
 CONTENTS
 slides/day4.qmd: Editable Quarto slides with presenter notes.
